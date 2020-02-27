@@ -1,26 +1,11 @@
-Calculator
----
-<img src="Logotype primary.png" width="60%" height="60%" />
+# React With Smooth Scrolling
 
-Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+![React with Smooth Scrolling](./images/cover.png)
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To Run
 
-Try It
----
-
-[ahfarmer.github.io/calculator](https://ahfarmer.github.io/calculator/)
-
-
-
-Install
----
-
-`npm install`
-
-
-
-Usage
----
-
-`npm start`
+- clone this repository
+- run `npm install`
+- run `npm start`
